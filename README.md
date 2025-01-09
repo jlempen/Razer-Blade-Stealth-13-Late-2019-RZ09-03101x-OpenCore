@@ -131,9 +131,7 @@ To enable native HiDPI settings in the Display Preferences of macOS, download an
 The RGB color effects of the keyboard may be managed and configured conveniently with the excellent [Razer macOS](https://github.com/1kc/razer-macos) utility.
 
 ## Undervolting to reduce heat and improve performance
-There are two undervolting tools available for macOS:
-* [Volta](https://volta.garymathews.com)
-* [VoltageShift](https://github.com/sicreative/VoltageShift)
+To undervolt our Razer Blade Stealth, I recommend using [VoltageShift](https://github.com/sicreative/VoltageShift)
 
 The `VoltageShift.kext` is already included and enabled in this repository's `Kexts` folder. To be able to launch the `voltageshift` command line tool from anywhere, copy the [voltageshift executable](https://github.com/jlempen/Razer-Blade-Stealth-13-Late-2019-RZ09-03101x-OpenCore/blob/main/Tools/VoltageShift/voltageshift) from the [Tools folder](https://github.com/jlempen/Razer-Blade-Stealth-13-Late-2019-RZ09-03101x-OpenCore/tree/main/Tools) to your `/usr/local/bin` folder by entering `sudo cp voltageshift /usr/local/bin/` in the macOS terminal after navigating to the folder where you downloaded the `voltageshift` executable file.
 
