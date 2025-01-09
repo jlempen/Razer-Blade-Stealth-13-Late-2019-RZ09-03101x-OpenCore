@@ -3,6 +3,16 @@
 # Razer-Blade-Stealth-13-Late-2019-RZ09-03101x-OpenCore
 macOS on the Razer Blade Stealth 13 (Late 2019) RZ09-03101x thanks to [Acidanthera's OpenCore bootloader](https://github.com/acidanthera/OpenCorePkg).
 
+## Software Specifications
+| Software         | Version                            |
+| ---------------- | ---------------------------------- |
+| Target OS        | Apple macOS 13 Ventura, 14 Sonoma and 15 Sequoia |
+| OpenCore         | [MOD-OC v1.0.4](https://github.com/wjz304/OpenCore_NO_ACPI_Build/releases/download/1.0.4_07c2042/OpenCore-Mod-1.0.4-RELEASE.zip) |
+| SMBIOS           | MacBookAir9,1 |
+| UEFI Firmware    | [Modified firmware v1.05](https://github.com/jlempen/Razer-Blade-Stealth-13-Late-2019-RZ09-03101x-OpenCore/tree/main/UEFI%20Firmware) |
+| SSD format       | APFS file system, GPT partition table |
+
+## Abstract
 The Razer Blade Stealth 13 (Late 2019) RZ09-03101x is an almost perfect Hackintosh laptop. Everything is working like on a real MacBook. It sounds great with its 2 large speakers, the huge trackpad supports all the native gestures and feels like an Apple trackpad, the keyboard with its sexy RGB lighting is quite serviceable, the Razer Blade Stealth sleeps and wakes quickly and the battery holds around five hours under normal load.
 
 > [!TIP]
@@ -37,15 +47,6 @@ This EFI folder also contains all the kexts needed to enable various Broadcom-ba
 This repository uses the unofficial [OpenCore_NO_ACPI_Build fork of OpenCore by btwise](https://gitee.com/btwise/OpenCore_NO_ACPI), wich is not endorsed by Acidanthera (the dev team behind OpenCore). The main (and only) difference between this fork and the official OpenCore version is that it allows to prevent ACPI injection (e.g. patches, tables, boot parameters) into other OSes besides macOS.
 
 Windows and Linux should be detected automagically by the OpenCore boot loader even when installed after macOS.
-
-## Software Specifications
-| Software         | Version                            |
-| ---------------- | ---------------------------------- |
-| Target OS        | Apple macOS 13 Ventura, 14 Sonoma and 15 Sequoia |
-| OpenCore         | [MOD-OC v1.0.3](https://github.com/wjz304/OpenCore_NO_ACPI_Build/releases/download/1.0.3_20b758b/OpenCore-Mod-1.0.3-RELEASE.zip) |
-| SMBIOS           | MacBookAir9,1 |
-| UEFI Firmware    | [Modified firmware v1.05](https://github.com/jlempen/Razer-Blade-Stealth-13-Late-2019-RZ09-03101x-OpenCore/tree/main/UEFI%20Firmware) |
-| SSD format       | APFS file system, GPT partition table |
 
 ## Computer Specifications
 | Device           | Hardware                           |
