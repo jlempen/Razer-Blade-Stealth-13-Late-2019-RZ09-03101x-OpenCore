@@ -13,7 +13,7 @@ macOS on the Razer Blade Stealth 13 (Late 2019) RZ09-03101x thanks to [Acidanthe
 | SSD format       | APFS file system, GPT partition table |
 
 ## Abstract
-The Razer Blade Stealth 13 (Late 2019) RZ09-03101x is an almost perfect Hackintosh laptop. Everything is working like on a real MacBook. It sounds great with its 2 large speakers, the huge trackpad supports all the native gestures and feels like an Apple trackpad, the keyboard with its sexy RGB lighting is quite serviceable, the Razer Blade Stealth sleeps and wakes quickly and the battery holds around five hours under normal load.
+The Razer Blade Stealth 13 (Late 2019) RZ09-03101x is a perfect Hackintosh laptop. Everything is working like on a real MacBook. It sounds great with its 2 large speakers, the huge trackpad supports all the native gestures and feels like an Apple trackpad, the keyboard with its sexy RGB lighting is quite serviceable, the Razer Blade Stealth sleeps and wakes quickly and the battery holds around five hours under normal load.
 
 > [!TIP]
 > I recommend installing `macOS 13 Ventura` rather than the newer `macOS 14 Sonoma` or `macOS 15 Sequoia`. The Intel Wireless chips work almost perfectly with Apple's iServices and Continuity features on Ventura while those features are partially broken at the moment on newer versions of macOS. Moreover, `macOS 13 Ventura` is the last version of macOS to natively support Broadcom Wireless chips.
