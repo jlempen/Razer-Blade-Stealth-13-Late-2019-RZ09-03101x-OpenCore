@@ -12,7 +12,7 @@ The Razer Blade Stealth 13 (Late 2019) RZ09-03101x is an almost perfect Hackinto
 > For macOS to be able to boot on the Razer Blade Stealth, the `Secure Boot` option _**must be disabled**_ in the UEFI BIOS.
 
 > [!CAUTION]
-> For some obscure reason, Windows (the installer as well as the installed system) will freeze if the NVIDIA GTX 1650 dGPU is disabled by setting the `Primary Display` option to `IGFX` in the UEFI BIOS. As I haven't found a way to fix this issue yet, you must keep the NVIDIA dGPU enabled if you need to boot into Windows on this machine.
+> For some obscure reason, Windows (the installer as well as a previously installed system) will freeze if the NVIDIA GTX 1650 dGPU is disabled by setting the `Primary Display` option to `IGFX` in the UEFI BIOS. As I haven't found a way to fix this issue yet, you must keep the NVIDIA dGPU enabled if you need to boot into Windows on this machine.
 >
 > Keeping the NVIDIA dGPU enabled in macOS will drastically reduce the battery runtime from 5-6 to 1.5 hours!
 >
