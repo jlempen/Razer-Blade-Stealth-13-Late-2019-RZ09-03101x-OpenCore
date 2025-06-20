@@ -86,6 +86,7 @@ Windows and Linux should be detected automagically by the OpenCore boot loader e
 
 ## What will probably never work
 - [ ] NVIDIA GeForce GTX 1650 Max-Q dGPU (disabled in the UEFI BIOS)
+- [ ] External Display output via USB-C (hardwired to the NVIDIA dGPU)
 - [ ] Windows Hello IR camera
 
 ## Modified UEFI Firmware
