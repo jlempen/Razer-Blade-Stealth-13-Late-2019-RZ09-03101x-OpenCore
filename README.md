@@ -7,7 +7,7 @@ macOS on the Razer Blade Stealth 13 (Late 2019) RZ09-03101x thanks to [Acidanthe
 | Software         | Version                            |
 | ---------------- | ---------------------------------- |
 | Target OS        | Apple macOS 13 Ventura, 14 Sonoma and 15 Sequoia |
-| OpenCore         | [MOD-OC v1.0.4](https://github.com/wjz304/OpenCore_NO_ACPI_Build/releases/download/1.0.4_07c2042/OpenCore-Mod-1.0.4-RELEASE.zip) |
+| OpenCore         | [MOD-OC v1.0.5](https://github.com/wjz304/OpenCore_NO_ACPI_Build/releases/download/1.0.5_b56882c/OpenCore-Mod-1.0.5-RELEASE.zip) |
 | SMBIOS           | MacBookAir9,1 |
 | UEFI Firmware    | [Modified firmware v1.05](https://github.com/jlempen/Razer-Blade-Stealth-13-Late-2019-RZ09-03101x-OpenCore/tree/main/UEFI%20Firmware) |
 | SSD format       | APFS file system, GPT partition table |
