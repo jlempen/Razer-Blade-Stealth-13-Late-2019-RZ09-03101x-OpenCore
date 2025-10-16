@@ -3,6 +3,11 @@
 # Razer-Blade-Stealth-13-Late-2019-RZ09-03101x-OpenCore
 macOS on the Razer Blade Stealth 13 (Late 2019) RZ09-03101x thanks to [Acidanthera's OpenCore bootloader](https://github.com/acidanthera/OpenCorePkg).
 
+> [!NOTE]
+> This repo is kept alive for informational purposes only.
+>
+> As I don't own this laptop anymore, I won't be able to provide any help or update for it.
+
 ## Software Specifications
 | Software         | Version                            |
 | ---------------- | ---------------------------------- |
